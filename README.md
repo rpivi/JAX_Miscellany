@@ -5,4 +5,4 @@ Follow this track:
 1) Basics
 2) Random
 3) Pure Functions
-4) Monte Carlo 
+4) Metropolis
