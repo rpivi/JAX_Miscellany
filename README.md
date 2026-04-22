@@ -1,8 +1,14 @@
-# JAX_Miscellany
-Some test file to learn JAX.
+# JAX Miscellany
 
-Follow this track:
-1) Basics
-2) Random
-3) Pure Functions
-4) Metropolis
+A collection of test notebooks to learn JAX step by step.
+
+## 📚 Learning Path
+
+1. **Basics** → [JAX_basics.ipynb]  
+2. **Random numbers** → [JAX_random.ipynb]  
+3. **Pure functions** → [JAX_pure_functions.ipynb]  
+4. **Metropolis algorithm** → [JAX_Metropolis.ipynb]
+
+---
+
+These notebooks are designed to build intuition progressively, from core JAX concepts to practical implementations like Monte Carlo methods.
