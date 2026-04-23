@@ -4,10 +4,10 @@ A collection of test notebooks to learn JAX step by step.
 
 ## 📚 Learning Path
 
-1. **Basics** → [JAX_basics.ipynb]  
-2. **Random numbers** → [JAX_random.ipynb]  
-3. **Pure functions** → [JAX_pure_functions.ipynb]  
-4. **Metropolis algorithm** → [JAX_Metropolis.ipynb]
+1. [JAX Basics examples](JAX_basics.ipynb) 
+2. [Random numbers](JAX_random.ipynb)  
+3. [Pure functions](JAX_pure_functions.ipynb)
+4. [Metropolis algorithm in JAX](JAX_Metropolis.ipynb)
 
 ---
 
